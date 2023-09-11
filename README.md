@@ -16,4 +16,5 @@
 
 - ``Java``
 - ``InteliJ IDEA``
+- ``Astah``
 - ``Paradigma de orientação a objetos``
